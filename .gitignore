@@ -21,3 +21,8 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+.idea/vcs.xml
+.idea/deployment.xml
+.idea/laravel.iml
+.idea/misc.xml
+.idea/modules.xml
